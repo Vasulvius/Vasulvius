@@ -1,3 +1,7 @@
+
+![banner](./banner.png)
+  
+  
 # 💫 About Me:
 🦊 Co‑Founder & Core Dev @ Framefox – building a sleek FastAPI‑based Python framework (MVC, SQLModel, CLI) to help devs ship fast & safe web apps<br>
 🧠 AI Engineer with strong Data & Math background – from data pipelines to intelligent systems (Python, VBA, OOP)<br>
