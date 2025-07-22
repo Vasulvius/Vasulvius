@@ -1,5 +1,8 @@
 # 💫 About Me:
-🦊 Co‑Founder & Core Dev @ Framefox – building a sleek FastAPI‑based Python framework (MVC, SQLModel, CLI) to help devs ship fast & safe web apps<br>🚀 Framework Architect focused on performance & DX – clean architecture, smart tooling, and developer happiness<br>🧠 AI Engineer with strong Data & Math background – from data pipelines to intelligent systems (Python, VBA, OOP)<br>🎮 Passionate Game Dev in C# with Godot – exploring gameplay, design patterns & real‑time systems<br>🤝 Open‑source advocate & tech community builder – let’s connect, share ideas & grow Framefox together
+🦊 Co‑Founder & Core Dev @ Framefox – building a sleek FastAPI‑based Python framework (MVC, SQLModel, CLI) to help devs ship fast & safe web apps<br>
+🧠 AI Engineer with strong Data & Math background – from data pipelines to intelligent systems (Python, VBA, OOP)<br>
+🎮 Passionate Game Dev in C# with Godot – exploring gameplay, design patterns & real‑time systems<br>
+🤝 Open‑source advocate & tech community builder – let’s connect, share ideas & grow Framefox together
 
 
 ## 🌐 Socials:
