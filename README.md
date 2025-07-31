@@ -1,5 +1,5 @@
 
-![banner](./banner.png)
+![banner](./banner.jpeg)
   
   
 # 💫 About Me
